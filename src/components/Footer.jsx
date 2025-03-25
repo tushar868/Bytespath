@@ -62,7 +62,7 @@ const Footer = () => {
               <div className="social-links mt-3">
                 <a href="https://x.com/bytespath" className="twitter"><i className="bx bxl-twitter"></i></a>
                 <a href="https://www.facebook.com/bytespath" className="facebook"><i className="bx bxl-facebook"></i></a>
-                <a href="https://www.instagram.com/bytespath/" className="instagram"><i className="bx bxl-instagram"></i></a>
+                <a href="https://www.instagram.com/bytespathsolutions/" className="instagram"><i className="bx bxl-instagram"></i></a>
                 <a href="https://in.pinterest.com/bytespathsolutions" className="google-plus"><i className="bx bxl-pinterest"></i></a>
                 <a href="https://www.youtube.com/@Bytespathsolutions" className="google-plus"><i className="bx bxl-youtube"></i></a>
                 <a href="https://www.linkedin.com/company/bytespathsolutions/" className="linkedin"><i className="bx bxl-linkedin"></i></a>
